@@ -2,19 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on My New Hugo Site</title>
-    <link>https://ezoehunt.github.io/hugo-test/news.xml</link>
+    <link>/news.xml</link>
     <description>Recent content in News on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2017 10:30:03 -0800</lastBuildDate>
-    <atom:link href="https://ezoehunt.github.io/hugo-test/news.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/news.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>good to great</title>
-      <link>https://ezoehunt.github.io/hugo-test/news/good-to-great.html</link>
+      <link>/news/good-to-great.html</link>
       <pubDate>Thu, 23 Feb 2017 10:30:03 -0800</pubDate>
       
-      <guid>https://ezoehunt.github.io/hugo-test/news/good-to-great.html</guid>
+      <guid>/news/good-to-great.html</guid>
+      <description>&lt;p&gt;Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here.&lt;/p&gt;
+
+&lt;p&gt;Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here.&lt;/p&gt;
+
+&lt;p&gt;Test content goes here. Test content goes here.&lt;/p&gt;
+
+&lt;p&gt;Test content goes here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>other name</title>
+      <link>/news/other-name.html</link>
+      <pubDate>Thu, 23 Feb 2017 10:30:03 -0800</pubDate>
+      
+      <guid>/news/other-name.html</guid>
       <description>&lt;p&gt;Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here.&lt;/p&gt;
 
 &lt;p&gt;Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here. Test content goes here.&lt;/p&gt;
